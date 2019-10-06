@@ -1,0 +1,14 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 66FC-0754
+
+ Directory of E:\GitJenkins
+
+06-10-2019  07:28    <DIR>          .
+06-10-2019  07:28    <DIR>          ..
+06-10-2019  07:23               488 hello.txt
+06-10-2019  07:27               438 HelloJenkins.class
+06-10-2019  06:32               119 HelloJenkins.java
+06-10-2019  07:23               441 index.html
+06-10-2019  07:28                 0 new.txt
+               5 File(s)          1,486 bytes
+               2 Dir(s)  206,783,344,640 bytes free
